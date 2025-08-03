@@ -45,20 +45,33 @@ Key Features:
 
 ## 👨‍💻 Team
 
-| Name           | USN         | Email                                      |
-|----------------|-------------|--------------------------------------------|
-| Sudarshan G    | 1SJ20EC147  | [gsudarshan925@gmail.com](mailto:gsudarshan925@gmail.com) |
-| Shreyas S R    | 1SJ20EC136  | [shreyasreddyssr15@gmail.com](mailto:shreyasreddyssr15@gmail.com) |
-| Ujwala H       | 1SJ20EC165  | —                                          |
-| Guide          | Dr. S Bhargavi | [bhargavi@sjcit.ac.in](mailto:bhargavi@sjcit.ac.in)        |
+| Name                   | Email                                                             |
+| ---------------------  | ----------------------------------------------------------------- |
+| Team Lead: Sudarshan G | [gsudarshan925@gmail.com](mailto:gsudarshan925@gmail.com)         |
+| Shreyas S R            | [shreyasreddyssr15@gmail.com](mailto:shreyasreddyssr15@gmail.com) |
+| S Upendra              | [lukkyupendra2002@gmail.com](mailto:lukkyupendra2002@gmail.com)   |
+| Guide: Dr. S Bhargavi  | [bhargavi@sjcit.ac.in](mailto:bhargavi@sjcit.ac.in)               |
 
 ---
 
 ## 📄 Documentation
 
-- 📘 [Mini Project Report](./documentation/mini-project-report.pdf)
-- 📑 [IEEE Paper](./documentation/ieee-paper.pdf)
-- 📊 [IEEE Presentation Slides](./documentation/ieee-presentation.pptx)
+* 📘 [Mini Project Report](./documentation/mini-project-report.pdf)
+* 📑 [IEEE Paper](./documentation/ieee-paper.pdf)
+* 📊 [IEEE Presentation Slides](./documentation/ieee-presentation.pdf)
+
+---
+
+## 📊 Results and Discussion
+
+The wireless charging system was successfully demonstrated using a 9V battery as the power source. Key observations:
+
+* ✅ Effective power transfer was achieved up to **6 cm** with good coil alignment
+* ⚡ Mobile devices charged reliably at **5V regulated output**
+* 🔥 Minimal heat dissipation and good energy conversion efficiency
+* 📶 Electromagnetic interference was found to be negligible in the tested range
+
+These results confirm the feasibility of short-range wireless charging for low-power devices using inductive coupling.
 
 ---
 
