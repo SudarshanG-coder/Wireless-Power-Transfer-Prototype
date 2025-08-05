@@ -43,14 +43,13 @@ Key Features:
 
 ---
 
-## 👨‍💻 Team
+## 🧑‍💻 My Contributions
 
-| Name                   | Email                                                             |
-| ---------------------  | ----------------------------------------------------------------- |
-| Team Lead: Sudarshan G | [gsudarshan925@gmail.com](mailto:gsudarshan925@gmail.com)         |
-| Shreyas S R            | [shreyasreddyssr15@gmail.com](mailto:shreyasreddyssr15@gmail.com) |
-| S Upendra              | [lukkyupendra2002@gmail.com](mailto:lukkyupendra2002@gmail.com)   |
-| Guide: Dr. S Bhargavi  | [bhargavi@sjcit.ac.in](mailto:bhargavi@sjcit.ac.in)               |
+- Designed and wound custom copper coils for transmitter and receiver sides
+- Built the rectifier and 5V voltage regulator circuit for output stabilization
+- Integrated MOSFET switching for efficient wireless energy transmission
+- Assembled and tested the complete prototype using a 9V battery
+- Prepared detailed project documentation, presentation, and IEEE paper
 
 ---
 
@@ -85,7 +84,8 @@ This project highlights:
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-- 📧 Email: [gsudarshan925@gmail.com](mailto:gsudarshan925@gmail.com)
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR-USERNAME](https://linkedin.com/in/YOUR-USERNAME)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sudarshan-g-ai/)
+* 🔗 [Portfolio](https://sudarshang-portfoilo.netlify.app/)
+* 📧 [gsudarshan925@gmail.com](mailto:gsudarshan925@gmail.com)
